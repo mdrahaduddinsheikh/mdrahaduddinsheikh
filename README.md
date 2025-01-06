@@ -1,16 +1,44 @@
-<h1 align = "center"> Hi there! 👋 I'm MD Rahad Uddin Sheikh </h1>
-Welcome to my GitHub profile! 🚀
+<h1 align="center">Hi there! 👋 I'm MD Rahad Uddin Sheikh</h1>
 
-I am a Fresher Business Analyst with a passion for transforming raw data into actionable insights that drive impactful decisions. I recently completed a comprehensive BI Analysis course from a reputed institution, equipping me with cutting-edge tools and techniques to excel in the field of data analysis.
+<p align="center">🚀 Turning data into insights, one analysis at a time 🚀</p>
 
-# **🛠️ My Expertise**
-**Data Analysis & Visualization:** Microsoft Excel, Microsoft Power BI
-Data Management & Querying: SQL
-Programming & Statistical Analysis: Python, R
-🌟 What I Bring
-Hands-on experience gained through diverse projects in business intelligence and analytics.
-A knack for storytelling with data, ensuring every insight is actionable and understandable.
-A strong foundation in both technical tools and problem-solving for real-world business challenges.
-📂 My Portfolio
-Explore my projects in data analysis, visualization, and predictive modeling, showcasing my ability to create dynamic dashboards, insightful reports, and efficient workflows.
-Feel free to connect with me or explore my repositories. Let’s collaborate and solve business problems with the power of data!
+---
+
+<h2>🌟 About Me</h2>
+
+<p>
+I am a <strong>Fresher Business Analyst</strong> passionate about leveraging data to solve complex problems and drive informed decision-making. Having completed a comprehensive <strong>BI Analysis course</strong> from a reputed institution, I have gained expertise in key tools and methodologies used in the field of data analytics.
+</p>
+
+<h2>💼 My Expertise</h2>
+
+<ul>
+  <li><strong>Data Analysis & Visualization</strong>: Microsoft Excel, Microsoft Power BI</li>
+  <li><strong>Database Management</strong>: SQL</li>
+  <li><strong>Programming & Statistical Analysis</strong>: Python, R</li>
+</ul>
+
+<h2>🎯 My Journey</h2>
+
+<p>Through hands-on <strong>projects</strong>, I have acquired significant experience in:</p>
+<ul>
+  <li>Designing <strong>dynamic dashboards</strong> for impactful decision-making.</li>
+  <li>Performing <strong>data cleaning, transformation, and visualization</strong> to unlock hidden patterns.</li>
+  <li>Utilizing statistical and programming techniques to generate actionable insights.</li>
+</ul>
+
+<h2>📂 What You'll Find Here</h2>
+
+<ul>
+  <li>A showcase of my <strong>projects</strong> demonstrating real-world problem-solving.</li>
+  <li><strong>Interactive dashboards</strong> and <strong>data models</strong> created using Power BI, Python, and R.</li>
+  <li>Insights into my approach to tackling business challenges with data.</li>
+</ul>
+
+---
+
+<h2>🌐 Let's Connect!</h2>
+
+<p>
+Feel free to reach out or collaborate with me on projects. Together, we can make data work for you!
+</p>
