@@ -1,4 +1,4 @@
-<h1 align = "center">  # **Hi there! 👋 I'm MD Rahad Uddin Sheikh** </h1>h1>
+<h1 align = "center"> Hi there! 👋 I'm MD Rahad Uddin Sheikh </h1>h1>
 Welcome to my GitHub profile! 🚀
 
 I am a Fresher Business Analyst with a passion for transforming raw data into actionable insights that drive impactful decisions. I recently completed a comprehensive BI Analysis course from a reputed institution, equipping me with cutting-edge tools and techniques to excel in the field of data analysis.
