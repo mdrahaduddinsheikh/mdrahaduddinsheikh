@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm MD Rahad Uddin Sheikh</h1>
-
 <p align="center">🚀 Turning data into insights, one analysis at a time 🚀</p>
-
 
 <h2>🌟 About Me</h2>
 
