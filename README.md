@@ -3,7 +3,6 @@
 <p align="center">🚀 Turning data into insights, one analysis at a time 🚀</p>
 
 
-
 <h2>🌟 About Me</h2>
 
 <p>
